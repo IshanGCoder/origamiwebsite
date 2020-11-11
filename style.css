@@ -24,3 +24,12 @@ body{
     width: 310px
     font-family: fantasy;
 }
+.origami:hover{
+    transform: scale(1.2);
+}
+a:link{
+    color: #0000FF;
+}
+a:visited{
+    color: #0000FF;
+}
